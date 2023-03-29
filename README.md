@@ -1,4 +1,4 @@
-## Bem-vindo, me chamo Paulo Ricardo e sou desenvolvedor WEB
+## Bem-vindo, me chamo Paulo Ricardo
 <div align="center">
   <a href="https://github.com/PaPaPaulitos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaPaPaulitos&theme=dracula"/>
