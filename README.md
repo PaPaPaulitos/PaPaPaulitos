@@ -1,7 +1,8 @@
 ## Bem-vindo, me chamo Paulo Ricardo
 <div align="center">
   <a href="https://github.com/PaPaPaulitos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaPaPaulitos&theme=dracula"/>
+  <img height="180em" style=border_radius="20" src="https://github-readme-stats.vercel.app/api?username=PaPaPaulitos&theme=dracula"/>
+    <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaPaPaulitos&layout=compact&langs_count=7&theme=dracula"/>
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
