@@ -21,8 +21,6 @@
 
   <div align="center">
   <img align="center" src="https://25.media.tumblr.com/tumblr_m2hpn4XlZQ1r73plvo1_500.gif"/>
-  
-  <p>Analise de dados e DevOps</p>
 
  
 <div> 
