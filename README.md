@@ -20,7 +20,7 @@
 </div>
 
   <div align="center">
-  <img align="center" src="https://25.media.tumblr.com/tumblr_m2hpn4XlZQ1r73plvo1_500.gif"/>
+  <img align="center" src="https://i.makeagif.com/media/6-28-2021/TCpNh1.gif"/>
 
  
 <div> 
