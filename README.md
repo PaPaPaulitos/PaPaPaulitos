@@ -38,7 +38,7 @@
 
 ### Ferramentas
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,notion,powershell)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,powershell)](https://skillicons.dev)
 
 ---
 
