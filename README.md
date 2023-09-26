@@ -8,7 +8,7 @@
 
 ### Frontend
     
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap)](https://skillicons.dev)
 
 ---
 
