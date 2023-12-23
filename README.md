@@ -1,10 +1,12 @@
-## Bem-vindo, me chamo Paulo Ricardo
+<h1 align='center'>Welcome</h1> 
+<h2 align='center'>About me</h2>
+<p align='center'>Passionate about development, data science and cloud computing, I'm 21 and my hobbies are programming, online gaming, books, music and movies</p>
 <div align="center">
   <a href="https://github.com/PaPaPaulitos">
   <img height="180em" style=border_radius="20" src="https://github-readme-stats.vercel.app/api?username=PaPaPaulitos&theme=dracula"/>
     <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaPaPaulitos&layout=compact&langs_count=7&theme=dracula"/>
-    
----
+
+<h2 align='center'>Stacks</h2>
 
 ### Frontend
     
@@ -26,7 +28,7 @@
 
 ### Cloud
 
-[![Cloud](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,cloudflare)](https://skillicons.dev)
 
 ---
 
