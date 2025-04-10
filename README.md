@@ -3,7 +3,7 @@
 </div>
 <h1 align='center'>Welcome</h1> 
 <h2 align='center'>About me</h2>
-<p align='center'>Passionate about development, data science and cloud computing, I'm 22 and my hobbies are programming, online gaming, books, music and movies</p>
+<p align='center'>Passionate about development, data science and cloud computing.</p>
 <div align="center">
   <a href="https://github.com/PaPaPaulitos">
   <img height="180em" style=border_radius="20" src="https://github-readme-stats.vercel.app/api?username=PaPaPaulitos&theme=dracula"/>
