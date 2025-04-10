@@ -1,3 +1,6 @@
+  <div align="center">
+  <img align="center" src="https://media.giphy.com/channel_assets/linkinpark/s6Bt8ilrpfUS.png"/>
+</div>
 <h1 align='center'>Welcome</h1> 
 <h2 align='center'>About me</h2>
 <p align='center'>Passionate about development, data science and cloud computing, I'm 22 and my hobbies are programming, online gaming, books, music and movies</p>
@@ -45,7 +48,7 @@
 ---
 
   <div align="center">
-  <img align="center" src="https://i.pinimg.com/originals/56/e8/60/56e8605b1c64e7babf7584c4fbd5db4d.gif"/>
+  <img align="center" src="https://media.giphy.com/channel_assets/linkinpark/s6Bt8ilrpfUS.png"/>
 
 
 
